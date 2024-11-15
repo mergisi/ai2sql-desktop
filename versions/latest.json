@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.9",
   "downloads": {
     "windows": "https://github.com/mergisi/ai2sql-desktop/releases/download/1.0.9/AI2SQL-Generator-Portable-1.0.9.exe",
     "mac": "https://github.com/mergisi/ai2sql-desktop/releases/download/1.0.9/AI2SQL.Generator-1.0.9-arm64.dmg"
