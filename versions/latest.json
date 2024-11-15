@@ -1,0 +1,8 @@
+{
+  "version": "1.0.9",
+  "downloads": {
+    "windows": "https://github.com/yourusername/ai2sql-desktop/raw/main/versions/v1.0.9/AI2SQL-Generator-Setup-1.0.9.exe",
+    "mac": "https://github.com/yourusername/ai2sql-desktop/raw/main/versions/v1.0.9/AI2SQL-Generator-1.0.9.dmg"
+  },
+  "releaseDate": "2024-03-15"
+}
