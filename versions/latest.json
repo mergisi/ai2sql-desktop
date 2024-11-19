@@ -1,8 +1,8 @@
 {
-  "version": "1.0.9",
+  "version": "1.1.0",
   "downloads": {
-    "windows": "https://github.com/mergisi/ai2sql-desktop/releases/download/1.0.9/AI2SQL-Generator-Portable-1.0.9.exe",
-    "mac": "https://github.com/mergisi/ai2sql-desktop/releases/download/1.0.9/AI2SQL.Generator-1.0.9-arm64.dmg"
+    "windows": "https://github.com/mergisi/ai2sql-desktop/releases/download/1.1.0/AI2SQL-Generator-Portable-1.1.0.exe",
+    "mac": "https://github.com/mergisi/ai2sql-desktop/releases/download/1.1.0/AI2SQL.Generator-1.1.0-arm64.dmg"
   },
   "releaseDate": "2024-03-15"
 }
