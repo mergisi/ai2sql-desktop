@@ -7,7 +7,7 @@ AI2SQL Desktop is an AI-powered SQL query generator that helps developers and da
 ## Features
 
 - 🤖 AI-powered SQL query generation
-- 🔄 Support for MySQL and SQL Server
+- 🔄 Support for MySQL, SQL Server and PostgreSQL
 - 💾 Local database connection management
 - ⚡ Real-time query execution
 - 🔒 Secure credential storage
